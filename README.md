@@ -1,4 +1,4 @@
-﻿﻿# IdOnName
+# IdOnName
 ## Explanation
 This plugin was requested by Souin (yuifsss) on the EXILED's Discord Server on 13/06/2025.
 
